@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go-qbittorrent/qbittorrent"
+	"github.com/ilyas28/go-qbittorrent/qbittorrent"
 
 	log "github.com/sirupsen/logrus"
 )

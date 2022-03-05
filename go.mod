@@ -1,4 +1,4 @@
-module go-qbittorrent
+module github.com/ilyas28/go-qbittorrent
 
 go 1.17
 
